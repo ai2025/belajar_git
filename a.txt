@@ -1,2 +1,4 @@
 ini file a
 teks 2
+
+teks 3
